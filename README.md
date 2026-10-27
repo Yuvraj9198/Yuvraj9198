@@ -15,6 +15,9 @@
   <a href="https://github.com/Yuvraj9198?tab=repositories">
     <img src="https://img.shields.io/github/repo-size/Yuvraj9198/BlogApp?label=BlogApp&style=flat-square&color=success" alt="BlogApp" />
   </a>
+  <a href="https://github.com/Yuvraj9198/ToDoList">
+    <img src="https://img.shields.io/github/repo-size/Yuvraj9198/ToDoList?label=ToDoList&style=flat-square&color=orange" alt="ToDoList" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=Yuvraj9198&label=Profile%20Views&color=7082ff&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -62,15 +65,26 @@
 
 <table>
   <tr>
-    <td width="100%">
-      <h3><a href="https://github.com/Yuvraj9198/BlogApp">📱 BlogApp - Native Android Blogging Platform</a></h3>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yuvraj9198/BlogApp">📱 BlogApp - Blogging Platform</a></h3>
       <p>A full-featured native Android blogging application built using Kotlin, Jetpack Architecture Components, and Firebase services.</p>
       <ul>
-        <li>✨ <b>Features</b>: Real-time article feed, article drafting & cover image uploads, user profile directory, bookmarked articles, and real-time interactive comments.</li>
-        <li>🛠️ <b>Tech</b>: Kotlin, ViewBinding, Firebase Realtime Database, Firebase Auth, Cloud Storage, App Check, Glide.</li>
+        <li>✨ <b>Features</b>: Real-time article feed, article drafting, cover images, comments & bookmarks.</li>
+        <li>🛠️ <b>Tech</b>: Kotlin, ViewBinding, Firebase Realtime DB, Auth, Storage, Glide.</li>
       </ul>
       <p>
         <a href="https://github.com/Yuvraj9198/BlogApp"><b>View Repository →</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Yuvraj9198/ToDoList">📋 ToDoList - Task Manager</a></h3>
+      <p>A clean and responsive Android task manager app built using Java, MVVM architecture, and Room Database for offline persistence.</p>
+      <ul>
+        <li>✨ <b>Features</b>: Task creation, Room SQLite persistence, LiveData reactive UI, and swipe-to-delete.</li>
+        <li>🛠️ <b>Tech</b>: Java, Android Jetpack, MVVM, Room DB, LiveData, DiffUtil.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yuvraj9198/ToDoList"><b>View Repository →</b></a>
       </p>
     </td>
   </tr>
