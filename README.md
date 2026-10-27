@@ -5,12 +5,15 @@
 ### 🚀 Android & Mobile Developer | IoT & Embedded Systems | Computer Vision & AI
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Android+Application+Developer;IoT+%26+Smart+Mobility+Systems+Builder;Computer+Vision+%26+Gesture+AI+Developer;Acoustic+AI+%26+Voice+Biomarkers;Kotlin+%26+Embedded+Hardware+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Android+Application+Developer;On-Device+AI+%26+Face+Recognition;IoT+%26+Smart+Mobility+Systems+Builder;Computer+Vision+%26+Gesture+AI+Developer;Acoustic+AI+%26+Voice+Biomarkers;Kotlin+%26+Embedded+Hardware+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://github.com/Yuvraj9198">
     <img src="https://img.shields.io/github/followers/Yuvraj9198?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Yuvraj9198/RealtimeFaceRecognition">
+    <img src="https://img.shields.io/badge/Realtime--Face--Recognition-Android%20%26%20TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Realtime Face Recognition" />
   </a>
   <a href="https://github.com/Yuvraj9198/Smart-Rider-Safety-Device">
     <img src="https://img.shields.io/badge/Smart--Rider--Safety--Device-Flagship%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="Smart Rider" />
@@ -36,6 +39,7 @@
 
 ## 📌 About Me
 
+- 🎭 **On-Device Vision & Face Recognition**: Built **Realtime Face Recognition**, a native Android Kotlin application executing real-time face detection via Google ML Kit, deep facial embeddings using TensorFlow Lite (FaceNet & MobileFaceNet), on-device SQLite database indexing, and Text-To-Speech audio feedback.
 - 🏍️ **IoT & Smart Mobility**: Built the **Smart Rider Safety Device**, an end-to-end hardware & mobile system featuring ESP32, handlebar minimalist TFT navigation, helmet HUD, MPU6050 accident detection, and alcohol sensor checks.
 - 👁️ **Computer Vision & Gesture AI**: Built the **Computer Vision & Gesture Suite**, leveraging OpenCV, Google MediaPipe, and YOLOv8 for real-time human tracking, touchless gesture calculation, 3D landmark classification, and sign language dataset pipelines.
 - 🩺 **Acoustic Biomarkers & Healthcare AI**: Built **EchoVitals**, an acoustic signal processing and machine learning pipeline extracting 29-D voice biomarkers (Jitter, Shimmer, HNR, MFCCs) via Praat & Librosa with calibrated SVM classifiers for Parkinson's Disease screening.
@@ -53,16 +57,20 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Camera2 API](https://img.shields.io/badge/Camera2_API-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 ### 👁️ Computer Vision & AI / ML
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00599C?style=for-the-badge&logo=yolo&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -92,6 +100,22 @@
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3><a href="https://github.com/Yuvraj9198/RealtimeFaceRecognition">🎭 Realtime Face Recognition — On-Device Vision, FaceNet & TFLite</a> 🌟 <i>(Featured Mobile AI)</i></h3>
+      <p>An advanced, real-time Android computer vision application for live camera face detection, deep-learning feature recognition, and dynamic face tracking running completely on-device.</p>
+      <ul>
+        <li>⚡ <b>Google ML Kit & Camera2 Pipeline</b>: Real-time camera stream processing with YUV-to-RGB conversion, auto-fit texture view, and sensor rotation matrix alignment.</li>
+        <li>🧠 <b>TensorFlow Lite Deep Embeddings</b>: On-device facial feature extraction using FaceNet & MobileFaceNet with vector distance metric matching.</li>
+        <li>🗂️ <b>Local SQLite Face Vault</b>: Secure, offline database storing registered user profiles, embeddings, and thumbnail previews with edit & delete controls.</li>
+        <li>🗣️ <b>Voice & Audio Feedback</b>: Android Text-To-Speech (TTS) announcements for recognized/unknown individuals with SpeechRecognizer voice interaction.</li>
+        <li>🖼️ <b>Live & Gallery Registration</b>: Seamless dual-mode registration supporting instant live camera registration and photo gallery imports.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yuvraj9198/RealtimeFaceRecognition"><b>Explore Realtime Face Recognition Repository →</b></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
       <h3><a href="https://github.com/Yuvraj9198/EchoVitals">🩺 EchoVitals — Acoustic Parkinson's Disease Voice Biomarker Pipeline</a> 🌟 <i>(Featured Healthcare AI)</i></h3>
