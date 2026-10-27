@@ -5,7 +5,7 @@
 ### 🚀 Android & Mobile Developer | IoT & Embedded Systems | Computer Vision & AI
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Android+Application+Developer;IoT+%26+Smart+Mobility+Systems+Builder;Computer+Vision+%26+Gesture+AI+Developer;Kotlin+%26+Embedded+Hardware+Enthusiast;Real-Time+Bluetooth+Navigation+%26+Sensors" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Android+Application+Developer;IoT+%26+Smart+Mobility+Systems+Builder;Computer+Vision+%26+Gesture+AI+Developer;Acoustic+AI+%26+Voice+Biomarkers;Kotlin+%26+Embedded+Hardware+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -17,6 +17,9 @@
   </a>
   <a href="https://github.com/Yuvraj9198/Computer-Vision-Gesture-Suite">
     <img src="https://img.shields.io/badge/Computer--Vision--Gesture--Suite-AI%20%26%20OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision Suite" />
+  </a>
+  <a href="https://github.com/Yuvraj9198/EchoVitals">
+    <img src="https://img.shields.io/badge/EchoVitals-Acoustic%20AI%20%26%20Biomarkers-009688?style=flat-square&logo=fastapi&logoColor=white" alt="EchoVitals" />
   </a>
   <a href="https://github.com/Yuvraj9198/BlogApp">
     <img src="https://img.shields.io/github/repo-size/Yuvraj9198/BlogApp?label=BlogApp&style=flat-square&color=success" alt="BlogApp" />
@@ -35,6 +38,7 @@
 
 - 🏍️ **IoT & Smart Mobility**: Built the **Smart Rider Safety Device**, an end-to-end hardware & mobile system featuring ESP32, handlebar minimalist TFT navigation, helmet HUD, MPU6050 accident detection, and alcohol sensor checks.
 - 👁️ **Computer Vision & Gesture AI**: Built the **Computer Vision & Gesture Suite**, leveraging OpenCV, Google MediaPipe, and YOLOv8 for real-time human tracking, touchless gesture calculation, 3D landmark classification, and sign language dataset pipelines.
+- 🩺 **Acoustic Biomarkers & Healthcare AI**: Built **EchoVitals**, an acoustic signal processing and machine learning pipeline extracting 29-D voice biomarkers (Jitter, Shimmer, HNR, MFCCs) via Praat & Librosa with calibrated SVM classifiers for Parkinson's Disease screening.
 - 📱 **Mobile Developer**: Passionate about creating high-performance, responsive Android applications with **Kotlin**, **Android Jetpack**, and clean software architecture.
 - 🛠️ **Real-Time Connectivity**: Experienced in building low-latency Bluetooth SPP/RFCOMM communication bridges linking mobile devices directly to embedded microcontrollers.
 - 💡 **Philosophy**: Engineering proactive, practical technology that enhances user safety and solves real-world challenges.
