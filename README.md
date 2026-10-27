@@ -58,6 +58,8 @@
 
 ### 👁️ Computer Vision & AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-00C7B7?style=for-the-badge&logo=google&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00599C?style=for-the-badge&logo=yolo&logoColor=white)
@@ -72,6 +74,7 @@
 ![SPI/I2C Displays](https://img.shields.io/badge/TFT_%26_OLED_Displays-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### ☁️ Backend & Cloud
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Realtime DB](https://img.shields.io/badge/Realtime_DB-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -89,6 +92,21 @@
 ## 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3><a href="https://github.com/Yuvraj9198/EchoVitals">🩺 EchoVitals — Acoustic Parkinson's Disease Voice Biomarker Pipeline</a> 🌟 <i>(Featured Healthcare AI)</i></h3>
+      <p>An end-to-end acoustic biomarker analysis engine and FastAPI microservice for screening sustained vowel voice signals for Parkinson's Disease indicators.</p>
+      <ul>
+        <li>🎙️ <b>29-D Acoustic Feature Vector</b>: Jitter (pitch perturbation), Shimmer (amplitude variation), HNR (harmonics-to-noise ratio), and 13-coefficient MFCC means & standard deviations.</li>
+        <li>🛡️ <b>Robust Hybrid Extraction</b>: Praat PointProcess phonetic algorithms with graceful fallback to Librosa pYIN when voicing or duration thresholds require approximation.</li>
+        <li>🤖 <b>Calibrated SVM Classifier</b>: Stratified 5-Fold Cross-Validation with Isotonic probability calibration for reliable clinical probability scoring.</li>
+        <li>⚡ <b>FastAPI REST Microservice</b>: Production ASGI microservice with <code>/predict</code> and <code>/health</code> endpoints, CLI evaluation utilities, and web upload client.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yuvraj9198/EchoVitals"><b>Explore EchoVitals Repository →</b></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td colspan="2" width="100%" valign="top">
       <h3><a href="https://github.com/Yuvraj9198/Smart-Rider-Safety-Device">🏍️ Smart Rider Safety Device — IoT Two-Wheeler Safety & Navigation</a> 🌟 <i>(Flagship IoT)</i></h3>
