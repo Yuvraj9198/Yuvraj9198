@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Yuvraj
+# 👨‍💻 Yuvraj Kaushik
 
 ### 🚀 Android & Mobile Developer | IoT & Embedded Systems | Computer Vision & AI
 
