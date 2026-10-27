@@ -2,17 +2,20 @@
 
 # 👨‍💻 Yuvraj
 
-### 🚀 Android & Mobile Developer | Kotlin Enthusiast | Open Source Contributor
+### 🚀 Android & Mobile Developer | IoT & Embedded Systems | Open Source Contributor
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Android+Application+Developer;Kotlin+%26+Java+Enthusiast;Crafting+Fluid+%26+Modern+Mobile+UIs;Firebase+%26+Cloud+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Android+Application+Developer;IoT+%26+Smart+Mobility+Systems+Builder;Kotlin+%26+Embedded+Hardware+Enthusiast;Real-Time+Bluetooth+Navigation+%26+Sensors" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://github.com/Yuvraj9198">
     <img src="https://img.shields.io/github/followers/Yuvraj9198?label=Followers&style=flat-square&color=blue" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/Yuvraj9198?tab=repositories">
+  <a href="https://github.com/Yuvraj9198/Smart-Rider-Safety-Device">
+    <img src="https://img.shields.io/badge/Smart--Rider--Safety--Device-Flagship%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="Smart Rider" />
+  </a>
+  <a href="https://github.com/Yuvraj9198/BlogApp">
     <img src="https://img.shields.io/github/repo-size/Yuvraj9198/BlogApp?label=BlogApp&style=flat-square&color=success" alt="BlogApp" />
   </a>
   <a href="https://github.com/Yuvraj9198/ToDoList">
@@ -27,11 +30,11 @@
 
 ## 📌 About Me
 
-- 📱 **Mobile Developer**: Passionate about creating performant, scalable, and beautifully designed Android applications.
-- 🛠️ **Current Focus**: Architecting robust mobile apps with **Kotlin**, **Android Jetpack**, **ViewBinding**, and **Firebase**.
-- 💡 **Philosophy**: Writing clean, maintainable code with focus on user experience and responsiveness.
-- 🚀 **Exploring**: Jetpack Compose, Kotlin Coroutines & Flow, and modern Clean Architecture.
-- 🤝 **Collaboration**: Open to collaborating on open-source Android projects, developer tools, and innovative apps.
+- 🏍️ **IoT & Smart Mobility**: Built the **Smart Rider Safety Device**, an end-to-end hardware & mobile system featuring ESP32, handlebar minimalist TFT navigation, helmet HUD, MPU6050 accident detection, and alcohol sensor checks.
+- 📱 **Mobile Developer**: Passionate about creating high-performance, responsive Android applications with **Kotlin**, **Android Jetpack**, and clean software architecture.
+- 🛠️ **Real-Time Connectivity**: Experienced in building low-latency Bluetooth SPP/RFCOMM communication bridges linking mobile devices directly to embedded microcontrollers.
+- 💡 **Philosophy**: Engineering proactive, practical technology that enhances user safety and solves real-world challenges.
+- 🤝 **Collaboration**: Always open to collaborating on Android apps, IoT prototypes, and impactful open-source projects.
 
 ---
 
@@ -42,15 +45,21 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Jetpack](https://img.shields.io/badge/Android_Jetpack-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Glide](https://img.shields.io/badge/Glide-4A90E2?style=for-the-badge&logo=android&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Kotlin_Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design_3-757575?style=for-the-badge&logo=material-design&logoColor=white)
+
+### ⚡ IoT, Hardware & Protocols
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Bluetooth SPP](https://img.shields.io/badge/Bluetooth_SPP_RFCOMM-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Sensors](https://img.shields.io/badge/IMU_%26_Gas_Sensors-009688?style=for-the-badge&logo=arduino&logoColor=white)
+![SPI/I2C Displays](https://img.shields.io/badge/TFT_%26_OLED_Displays-FF6F00?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### ☁️ Backend & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 ![Realtime DB](https://img.shields.io/badge/Realtime_DB-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Cloud_Storage-F57C00?style=for-the-badge&logo=firebase&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Volley/Retrofit](https://img.shields.io/badge/Networking-Volley%20%2F%20Retrofit-2E7D32?style=for-the-badge)
 
 ### 🛠️ Developer Tools & Environments
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -65,8 +74,23 @@
 
 <table>
   <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3><a href="https://github.com/Yuvraj9198/Smart-Rider-Safety-Device">🏍️ Smart Rider Safety Device — IoT Two-Wheeler Safety & Navigation</a> 🌟 <i>(Flagship)</i></h3>
+      <p>An end-to-end hardware and Android IoT ecosystem designed to prevent rider distraction and drastically reduce two-wheeler fatalities through minimalist navigation and automated safety telemetry.</p>
+      <ul>
+        <li>🧭 <b>Minimalist TFT Screen & Helmet HUD</b>: Sunlight-readable turn indicators eliminating smartphone screen distraction.</li>
+        <li>🚨 <b>Accident & Fall Detection</b>: 6-Axis MPU-6050 accelerometer/gyroscope with automatic emergency SOS alerting.</li>
+        <li>🛑 <b>Sobriety Verification</b>: Pre-ride breath alcohol detection (MQ-3 sensor) for preventive safety.</li>
+        <li>📱 <b>Android Application</b>: Google Maps & Directions API, dynamic re-routing, TTS voice cues, and Bluetooth SPP RFCOMM streaming.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/Yuvraj9198/Smart-Rider-Safety-Device"><b>Explore Smart Rider Safety Device Repository →</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yuvraj9198/BlogApp">📱 BlogApp - Blogging Platform</a></h3>
+      <h3><a href="https://github.com/Yuvraj9198/BlogApp">📱 BlogApp — Blogging Platform</a></h3>
       <p>A full-featured native Android blogging application built using Kotlin, Jetpack Architecture Components, and Firebase services.</p>
       <ul>
         <li>✨ <b>Features</b>: Real-time article feed, article drafting, cover images, comments & bookmarks.</li>
@@ -77,7 +101,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Yuvraj9198/ToDoList">📋 ToDoList - Task Manager</a></h3>
+      <h3><a href="https://github.com/Yuvraj9198/ToDoList">📋 ToDoList — Task Manager</a></h3>
       <p>A clean and responsive Android task manager app built using Java, MVVM architecture, and Room Database for offline persistence.</p>
       <ul>
         <li>✨ <b>Features</b>: Task creation, Room SQLite persistence, LiveData reactive UI, and swipe-to-delete.</li>
